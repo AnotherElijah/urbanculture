@@ -1,0 +1,1425 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ftage\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-08 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/footer/copyright.php:32
+msgid " All Rights Reserved."
+msgstr ""
+
+#: inc/global-functions.php:32
+msgid " Details"
+msgstr ""
+
+#: template-parts/content-search.php:48 template-parts/content.php:110
+#: template-parts/content-single.php:131
+msgid "% Comments"
+msgstr ""
+
+#: inc/comment-form.php:42 inc/comment-form.php:105
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: functions.php:345 inc/metabox/metabox.php:12
+msgid "--- Select ---"
+msgstr ""
+
+#: inc/footer/default.php:83
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: template-parts/content-search.php:48 template-parts/content.php:110
+#: template-parts/content-single.php:131
+msgid "1 Comment"
+msgstr ""
+
+#: inc/metabox-expand.php:154
+msgid "100"
+msgstr ""
+
+#: inc/metabox-expand.php:155
+msgid "200"
+msgstr ""
+
+#: inc/metabox-expand.php:156
+msgid "300"
+msgstr ""
+
+#: inc/metabox-expand.php:157
+msgid "400"
+msgstr ""
+
+#: 404.php:25
+msgid "404"
+msgstr ""
+
+#: inc/metabox-expand.php:158
+msgid "500"
+msgstr ""
+
+#: inc/metabox-expand.php:159
+msgid "600"
+msgstr ""
+
+#: inc/metabox-expand.php:160
+msgid "700"
+msgstr ""
+
+#: inc/metabox-expand.php:161
+msgid "800"
+msgstr ""
+
+#: inc/metabox-expand.php:162
+msgid "900"
+msgstr ""
+
+#: inc/metabox/metabox.php:621
+msgid "Add Another Icon"
+msgstr ""
+
+#: inc/metabox-expand.php:465
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/metabox/metabox.php:618
+msgid "Add Second Icon"
+msgstr ""
+
+#: inc/widgets/widget-register.php:24 inc/widgets/widget-register.php:34
+#: inc/widgets/widget-register.php:44 inc/widgets/widget-register.php:64
+#: inc/widgets/widget-register.php:117
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/demo-import.php:16
+msgid "After you import this demo, you will have setup all content."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:201
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:191 inc/page-header/breadcrumb.php:195
+#: inc/page-header/breadcrumb.php:199 inc/page-header/breadcrumb.php:206
+#: inc/page-header/breadcrumb.php:210 inc/page-header/breadcrumb.php:215
+msgid "Archives"
+msgstr ""
+
+#: inc/metabox/metabox.php:55
+msgid "Audio URL"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:226
+msgid "Author: "
+msgstr ""
+
+#: inc/metabox/metabox.php:147
+msgid "Background"
+msgstr ""
+
+#: inc/metabox-expand.php:423
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/metabox-expand.php:387
+msgid "Background Color"
+msgstr ""
+
+#: inc/metabox-expand.php:447
+msgid "Background Image"
+msgstr ""
+
+#: inc/metabox-expand.php:435
+msgid "Background Position"
+msgstr ""
+
+#: inc/metabox-expand.php:399
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/metabox-expand.php:411
+msgid "Background Size"
+msgstr ""
+
+#: inc/widgets/single-banner.php:111
+msgid "Banner Link:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:191
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:181
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:186
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the template
+msgid "Blank Template"
+msgstr ""
+
+#: inc/global-functions.php:18
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Both Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Both Sidebar Full"
+msgstr ""
+
+#: inc/metabox-expand.php:532 inc/metabox-expand.php:596
+msgid "Bottom"
+msgstr ""
+
+#: inc/metabox/metabox.php:135
+msgid "Boxed"
+msgstr ""
+
+#: inc/metabox/metabox.php:363
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/metabox/metabox.php:342
+msgid "Breadcrumbs Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:352
+msgid "Breadcrumbs Mobile Devices Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:369
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: template-parts/content-search.php:36
+msgid "By:"
+msgstr ""
+
+#: inc/metabox-expand.php:140
+msgid "Capitalize"
+msgstr ""
+
+#: inc/metabox/metabox.php:381
+msgid "Center"
+msgstr ""
+
+#: inc/metabox-expand.php:359
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/metabox-expand.php:358
+msgid "Center Center"
+msgstr ""
+
+#: inc/metabox-expand.php:357
+msgid "Center Top"
+msgstr ""
+
+#: inc/metabox/metabox.php:197
+msgid "Choose the header layout."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:68
+msgid "CMB2"
+msgstr ""
+
+#: inc/metabox-expand.php:659
+msgid "Color"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/content-search.php:48 template-parts/content.php:110
+#: template-parts/content-single.php:131
+msgid "Comments off"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:83
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/metabox-expand.php:318
+msgid "Contain"
+msgstr ""
+
+#: inc/metabox/metabox.php:375
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/metabox/metabox.php:142
+msgid "Content Padding"
+msgstr ""
+
+#: inc/widgets/video-popup.php:131 inc/widgets/company-info-widget.php:128
+#: inc/widgets/author-info.php:182
+msgid "Content:"
+msgstr ""
+
+#: inc/metabox/metabox.php:424
+msgid "Controls the background of the page title area."
+msgstr ""
+
+#: inc/metabox/metabox.php:430
+msgid "Controls the background overlay of the page title area."
+msgstr ""
+
+#: inc/metabox/metabox.php:376
+msgid ""
+"Controls the content alignment of the page title. if the default is chosen "
+"the theme options will work."
+msgstr ""
+
+#: inc/metabox/metabox.php:418
+msgid ""
+"Controls the height of the page title area on mobile device. Enter value "
+"excluding any valid CSS unit, ex: 80"
+msgstr ""
+
+#: inc/metabox/metabox.php:412
+msgid ""
+"Controls the height of the page title area. Enter value excluding any valid "
+"CSS unit, ex: 100"
+msgstr ""
+
+#: inc/metabox/metabox.php:370
+msgid "Controls the typography settings of the page breadcrumbs."
+msgstr ""
+
+#: inc/metabox/metabox.php:333
+msgid "Controls the typography settings of the page subtitle."
+msgstr ""
+
+#: inc/metabox/metabox.php:299
+msgid "Controls the typography settings of the page title."
+msgstr ""
+
+#: inc/footer/copyright.php:32 inc/footer/default.php:83
+msgid "Copyright"
+msgstr ""
+
+#: inc/metabox-expand.php:317
+msgid "Cover"
+msgstr ""
+
+#: inc/metabox/metabox.php:187 inc/metabox/metabox.php:460
+msgid "Custom"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:93
+msgid "Custom Icons for Elementor"
+msgstr ""
+
+#: inc/metabox/metabox.php:318
+msgid "Custom Sub Title"
+msgstr ""
+
+#: inc/metabox/metabox.php:288
+msgid "Custom Title"
+msgstr ""
+
+#: inc/metabox/metabox.php:134 inc/metabox/metabox.php:163
+#: inc/metabox/metabox.php:175 inc/metabox/metabox.php:186
+#: inc/metabox/metabox.php:379 inc/metabox/metabox.php:392
+#: inc/metabox/metabox.php:403 inc/metabox/metabox.php:448
+#: inc/metabox/metabox.php:459
+msgid "Default"
+msgstr ""
+
+#: inc/widgets/newsletter.php:76
+msgid "Description:"
+msgstr ""
+
+#: inc/metabox/metabox.php:609
+msgid "Designation"
+msgstr ""
+
+#: inc/widgets/recent-post.php:139
+msgid "Display post date?"
+msgstr ""
+
+#. %s: Name of current post
+#: template-parts/content-page.php:31 inc/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:88
+msgid "Elementor"
+msgstr ""
+
+#: inc/metabox/metabox.php:247
+msgid "Enable full width of the header."
+msgstr ""
+
+#: inc/metabox/metabox.php:171
+msgid "Enable Header"
+msgstr ""
+
+#: inc/metabox/metabox.php:445
+msgid ""
+"Enable or disable footer. if the default is chosen the theme options will "
+"work."
+msgstr ""
+
+#: inc/metabox/metabox.php:172
+msgid ""
+"Enable or disable header. if the default is chosen the theme options will "
+"work."
+msgstr ""
+
+#: inc/metabox/metabox.php:343
+msgid "Enable or Disable the breadcrumbs."
+msgstr ""
+
+#: inc/metabox/metabox.php:309
+msgid "Enable or Disable the page subtitle."
+msgstr ""
+
+#: inc/metabox/metabox.php:269
+msgid "Enable or Disable the page title area."
+msgstr ""
+
+#: inc/metabox/metabox.php:279
+msgid "Enable or Disable the page title."
+msgstr ""
+
+#: inc/metabox/metabox.php:353
+msgid "Enable or disable to display breadcrumb on mobile devices."
+msgstr ""
+
+#: inc/metabox/metabox.php:160
+msgid ""
+"Enable or disable top bar. if the default is chosen the theme options will "
+"work."
+msgstr ""
+
+#: inc/metabox/metabox.php:389
+msgid ""
+"Enable to have the page title area display at 100% width according to the "
+"window size. Turn off to follow site width."
+msgstr ""
+
+#: inc/metabox/metabox.php:633
+msgid "Enter Link"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:241
+msgid "Error 404"
+msgstr ""
+
+#: page-maintenance.php:33
+msgid "example.com is undergoing scheduled maintenance."
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:135
+#: inc/widgets/company-info-widget.php:136 inc/widgets/author-info.php:192
+msgid "Facebook Link:"
+msgstr ""
+
+#: inc/metabox-expand.php:336
+msgid "Fixed"
+msgstr ""
+
+#: inc/metabox/metabox.php:499
+msgid "Fixed Footer"
+msgstr ""
+
+#: inc/metabox-expand.php:273
+msgid "Font Color"
+msgstr ""
+
+#: inc/metabox-expand.php:203
+msgid "Font Family"
+msgstr ""
+
+#: inc/metabox-expand.php:213
+msgid "Font Size"
+msgstr ""
+
+#: inc/metabox-expand.php:263
+msgid "Font style"
+msgstr ""
+
+#: inc/metabox-expand.php:253
+msgid "Font Weight"
+msgstr ""
+
+#: inc/metabox/metabox.php:440 inc/metabox/metabox.php:444
+msgid "Footer"
+msgstr ""
+
+#: inc/metabox/metabox.php:455
+msgid "Footer Type"
+msgstr ""
+
+#. Name of the theme
+msgid "Ftage"
+msgstr ""
+
+#: inc/widgets/recent-post.php:14
+msgid "Ftage blog recent post here"
+msgstr ""
+
+#: inc/widgets/newsletter.php:11
+msgid "Ftage contact for address email and phone no."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:62
+msgid "Ftage Core"
+msgstr ""
+
+#: inc/metabox/metabox.php:491
+msgid "Ftage Footer Options"
+msgstr ""
+
+#: inc/metabox/metabox.php:514
+msgid "Ftage Header Options"
+msgstr ""
+
+#: inc/widgets/author-info.php:18
+msgid "Ftage: Author Informations"
+msgstr ""
+
+#: inc/widgets/single-banner.php:19
+msgid "Ftage: Banner"
+msgstr ""
+
+#: inc/widgets/newsletter.php:13
+msgid "Ftage: Newsletter"
+msgstr ""
+
+#: inc/widgets/recent-post.php:18
+msgid "Ftage: Recent Post"
+msgstr ""
+
+#: inc/widgets/company-info-widget.php:12
+msgid "Ftage: Short Description"
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:12
+msgid "Ftage: Subscribe Social"
+msgstr ""
+
+#: inc/widgets/video-popup.php:19
+msgid "Ftage: Video PopUp"
+msgstr ""
+
+#: inc/metabox/metabox.php:405
+msgid "Full Height"
+msgstr ""
+
+#. Name of the template
+#: inc/metabox/metabox.php:94 inc/metabox/metabox.php:136
+msgid "Full Width"
+msgstr ""
+
+#: inc/metabox/metabox.php:69
+msgid "Gallery Slider"
+msgstr ""
+
+#: 404.php:50
+msgid "Go back to Home Page"
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:139
+#: inc/widgets/company-info-widget.php:140 inc/widgets/author-info.php:196
+msgid "Google Plus Link:"
+msgstr ""
+
+#: inc/metabox/metabox.php:404
+msgid "Half Height"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:73
+msgid "HashBar"
+msgstr ""
+
+#. Author of the theme
+msgid "HasTech"
+msgstr ""
+
+#: inc/metabox/metabox.php:155
+msgid "Header"
+msgstr ""
+
+#: inc/metabox/metabox.php:246
+msgid "Header Full Width"
+msgstr ""
+
+#: inc/metabox/metabox.php:196
+msgid "Header Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:522
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/metabox/metabox.php:182
+msgid "Header Type"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:30
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.wphash.com/ftagem/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://hastech.company/"
+msgstr ""
+
+#: inc/metabox/metabox.php:564 inc/metabox/metabox.php:572
+msgid "Icon"
+msgstr ""
+
+#: inc/metabox/metabox.php:586
+msgid "Icon Image"
+msgstr ""
+
+#: inc/metabox/metabox.php:289
+msgid "If this field is empty, then default page/post title will be showed"
+msgstr ""
+
+#: inc/metabox/metabox.php:500
+msgid "If yes, this footer will be fixed"
+msgstr ""
+
+#: inc/metabox/metabox.php:523
+msgid "If yes, this header will be sticky"
+msgstr ""
+
+#: inc/metabox/metabox.php:534
+msgid "If yes, to make the header area transparent"
+msgstr ""
+
+#: inc/metabox/metabox.php:565
+msgid "Image"
+msgstr ""
+
+#: inc/metabox-expand.php:305 inc/metabox-expand.php:319
+#: inc/metabox-expand.php:338
+msgid "Inherit"
+msgstr ""
+
+#: inc/metabox-expand.php:142
+msgid "inherit"
+msgstr ""
+
+#: inc/metabox-expand.php:304 inc/metabox-expand.php:320
+#: inc/metabox-expand.php:339
+msgid "Initial"
+msgstr ""
+
+#: inc/metabox/metabox.php:628
+msgid "insert Icon"
+msgstr ""
+
+#: inc/metabox/metabox.php:573
+msgid "Insert Icon Name Here"
+msgstr ""
+
+#: inc/metabox/metabox.php:634
+msgid "insert link here"
+msgstr ""
+
+#: inc/metabox/metabox.php:610
+msgid "insert title here"
+msgstr ""
+
+#: inc/metabox/metabox.php:56
+msgid "Insert your Audio file URL"
+msgstr ""
+
+#: inc/metabox/metabox.php:63
+msgid "Insert your Cite"
+msgstr ""
+
+#: inc/widgets/author-info.php:216
+msgid "Instagram Link:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:133
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:132
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:134
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/metabox-expand.php:176
+msgid "Italic"
+msgstr ""
+
+#: inc/metabox/metabox.php:129
+msgid "Layout Width"
+msgstr ""
+
+#: comments.php:92
+msgid "Leave a comment"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/metabox-expand.php:543 inc/metabox-expand.php:607
+#: inc/metabox/metabox.php:380
+msgid "Left"
+msgstr ""
+
+#: inc/metabox-expand.php:356
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/metabox-expand.php:355
+msgid "Left Center"
+msgstr ""
+
+#: inc/metabox/metabox.php:95 inc/widgets/widget-register.php:32
+msgid "Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox-expand.php:354
+msgid "Left Top"
+msgstr ""
+
+#: inc/metabox-expand.php:233
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/metabox-expand.php:223
+msgid "Line Height"
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:151
+#: inc/widgets/company-info-widget.php:154 inc/widgets/author-info.php:208
+msgid "Linkedin Link:"
+msgstr ""
+
+#: inc/metabox-expand.php:337
+msgid "Local"
+msgstr ""
+
+#: inc/header/header-top-bar.php:72 inc/header/header-top-bar.php:143
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: inc/metabox-expand.php:138
+msgid "lowercase"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:98
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: page-maintenance.php:32
+msgid "Maintenance mode active"
+msgstr ""
+
+#: inc/comment-nav.php:11
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/content-single.php:194
+msgid "next post"
+msgstr ""
+
+#: inc/metabox/metabox.php:165 inc/metabox/metabox.php:177
+#: inc/metabox/metabox.php:251 inc/metabox/metabox.php:273
+#: inc/metabox/metabox.php:283 inc/metabox/metabox.php:313
+#: inc/metabox/metabox.php:347 inc/metabox/metabox.php:357
+#: inc/metabox/metabox.php:394 inc/metabox/metabox.php:450
+#: inc/metabox/metabox.php:504 inc/metabox/metabox.php:527
+#: inc/metabox/metabox.php:538
+msgid "No"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:199
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: template-parts/content-search.php:48 template-parts/content.php:110
+#: template-parts/content-single.php:131
+msgid "No Comments"
+msgstr ""
+
+#: inc/metabox-expand.php:303
+msgid "No-Repeat"
+msgstr ""
+
+#: inc/widgets/recent-post.php:128
+msgid "No. of Item of posts to show:"
+msgstr ""
+
+#: inc/metabox-expand.php:141
+msgid "none"
+msgstr ""
+
+#: inc/metabox-expand.php:175
+msgid "Normal"
+msgstr ""
+
+#: 404.php:21
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/comment-nav.php:6
+msgid "Older Comments"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:103
+msgid "One Click Demo"
+msgstr ""
+
+#: functions.php:62
+msgid "One Page Menu"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: functions.php:136
+msgctxt "Orbitron font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/widgets/company-info-widget.php:11
+msgid "Our short description  ."
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:11
+msgid "Our Subscribe Social  ."
+msgstr ""
+
+#: inc/metabox/metabox.php:225
+msgid ""
+"Override the primary menu by selecting one of these. if nothing is selected "
+"primary menu will work."
+msgstr ""
+
+#: template-parts/content-search.php:71 template-parts/content-page.php:20
+#: template-parts/content.php:126 template-parts/content-single.php:158
+#: inc/metabox/metabox.php:126 inc/page-header/breadcrumb.php:231
+msgid "Page"
+msgstr ""
+
+#: 404.php:31
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/metabox/metabox.php:105
+msgid "Page Options"
+msgstr ""
+
+#: template-parts/content-search.php:67 template-parts/content-page.php:16
+#: template-parts/content.php:124 template-parts/content-single.php:154
+msgid "Pages:"
+msgstr ""
+
+#: inc/widgets/company-info-widget.php:132
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:155 inc/widgets/author-info.php:212
+msgid "Pinterest Link:"
+msgstr ""
+
+#: inc/page-header/single-post-title.php:134 inc/page-header/page-title.php:194
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search Here"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:202
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:197
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:200
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/metabox/metabox.php:32
+msgid "Post Format Additional Fields"
+msgstr ""
+
+#: inc/metabox/metabox.php:80
+msgid "Post Settings"
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: template-parts/content-single.php:189
+msgid "prev post"
+msgstr ""
+
+#: functions.php:61
+msgid "Primary"
+msgstr ""
+
+#: inc/metabox/metabox.php:62
+msgid "Quote Cite"
+msgstr ""
+
+#: inc/global-functions.php:56
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/recent-post.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:78
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/metabox/metabox.php:622
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/metabox-expand.php:482
+msgid "Remove Image"
+msgstr ""
+
+#: inc/metabox-expand.php:300
+msgid "Repeat"
+msgstr ""
+
+#: inc/metabox-expand.php:301
+msgid "Repeat-X"
+msgstr ""
+
+#: inc/metabox-expand.php:302
+msgid "Repeat-Y"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:196
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/metabox-expand.php:521 inc/metabox-expand.php:585
+#: inc/metabox/metabox.php:382
+msgid "Right"
+msgstr ""
+
+#: inc/metabox-expand.php:362
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/metabox-expand.php:361
+msgid "Right Center"
+msgstr ""
+
+#: inc/metabox/metabox.php:96 inc/widgets/widget-register.php:22
+msgid "Right Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metabox-expand.php:360
+msgid "Right Top"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:131
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/widgets/company-info-widget.php:148
+msgid "Rss Link:"
+msgstr ""
+
+#: inc/metabox-expand.php:335
+msgid "Scroll"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:236
+msgid "Search results for: "
+msgstr ""
+
+#: inc/metabox-expand.php:137 inc/metabox-expand.php:153
+#: inc/metabox-expand.php:174 inc/metabox-expand.php:299
+#: inc/metabox-expand.php:316 inc/metabox-expand.php:334
+#: inc/metabox-expand.php:353
+msgid "Select"
+msgstr ""
+
+#: inc/metabox/metabox.php:466
+msgid "Select Footer Style"
+msgstr ""
+
+#: inc/metabox/metabox.php:456
+msgid ""
+"Select footer type, if the default is chosen the existing design will work, "
+"or choose the custom option to get headers from footer post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:235
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/metabox/metabox.php:183
+msgid ""
+"Select header type, if the default is chosen the existing options below will "
+"work, or choose the custom option to get headers from header post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:560
+msgid "Select Icon  Or Image for Service"
+msgstr ""
+
+#: inc/metabox/metabox.php:93
+msgid "Select Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:224
+msgid "Select Menu"
+msgstr ""
+
+#: inc/metabox/metabox.php:88
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:467
+msgid "Select the footer template/style that you made in the footer post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:236
+msgid "Select the header template/style that you made in the header post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:130
+msgid ""
+"Select the site layout. if the default is chosen the theme options will work."
+msgstr ""
+
+#: inc/metabox/metabox.php:552
+msgid "Service Option"
+msgstr ""
+
+#: inc/widgets/widget-register.php:42
+msgid "Services Sidebar"
+msgstr ""
+
+#: inc/metabox/metabox.php:364
+msgid "Set the breadcrumb separator here."
+msgstr ""
+
+#: inc/metabox/metabox.php:319
+msgid "Set the custom sub title of the page."
+msgstr ""
+
+#: template-parts/content-single.php:172
+msgid "Share:"
+msgstr ""
+
+#: inc/widgets/newsletter.php:80
+msgid "Shortcode:"
+msgstr ""
+
+#: inc/metabox/metabox.php:559
+msgid "Slect Icon Type"
+msgstr ""
+
+#: inc/metabox/metabox.php:627
+msgid "Social Icon"
+msgstr ""
+
+#: inc/metabox/metabox.php:620
+msgid "Social Icon {#}"
+msgstr ""
+
+#: inc/widgets/author-info.php:187
+msgid "Social Title:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:135
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: page-maintenance.php:34
+msgid "Sorry for the inconvenience."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:176
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:146
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:161
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/metabox/metabox.php:308
+msgid "Sub Title Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:332
+msgid "Sub Title Typography"
+msgstr ""
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/metabox/metabox.php:604
+msgid "team Option"
+msgstr ""
+
+#: inc/metabox-expand.php:243
+msgid "Text Transform"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:151
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:198
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:171
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:166
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:37
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:156
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:141
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:136
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/author-info.php:14
+msgid "This widget show author informations"
+msgstr ""
+
+#: inc/widgets/single-banner.php:15
+msgid "This widget show banner"
+msgstr ""
+
+#: inc/widgets/video-popup.php:15
+msgid "This widget show video thumbnail and video"
+msgstr ""
+
+#: inc/metabox/metabox.php:278
+msgid "Title Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:298
+msgid "Title Typography"
+msgstr ""
+
+#: inc/widgets/recent-post.php:133
+msgid "Title Word"
+msgstr ""
+
+#: inc/metabox/metabox.php:264
+msgid "Title Wrapper"
+msgstr ""
+
+#: inc/metabox/metabox.php:423
+msgid "Title Wrapper Background"
+msgstr ""
+
+#: inc/metabox/metabox.php:268
+msgid "Title Wrapper Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:388
+msgid "Title Wrapper Full Width"
+msgstr ""
+
+#: inc/metabox/metabox.php:400
+msgid "Title Wrapper Height"
+msgstr ""
+
+#: inc/metabox/metabox.php:429
+msgid "Title Wrapper Overlay"
+msgstr ""
+
+#: inc/metabox/metabox.php:411
+msgid "Title Wrapper Padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:417
+msgid "Title Wrapper Padding On Phone"
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:131 inc/widgets/single-banner.php:98
+#: inc/widgets/video-popup.php:114 inc/widgets/author-info.php:178
+#: inc/widgets/newsletter.php:72 inc/widgets/recent-post.php:123
+msgid "Title:"
+msgstr ""
+
+#: inc/metabox-expand.php:510 inc/metabox-expand.php:574
+msgid "Top"
+msgstr ""
+
+#: inc/metabox/metabox.php:159
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:63
+msgid "Top Bar Left menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Top Bar Right menu"
+msgstr ""
+
+#: inc/metabox/metabox.php:533
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:143
+#: inc/widgets/company-info-widget.php:144 inc/widgets/author-info.php:200
+msgid "Twitter Link:"
+msgstr ""
+
+#: comments.php:90
+msgid "Type your comments"
+msgstr ""
+
+#: inc/metabox-expand.php:321 inc/metabox-expand.php:340
+msgid "Unset"
+msgstr ""
+
+#: inc/widgets/company-info-widget.php:125
+msgid "Upload"
+msgstr ""
+
+#: inc/metabox/metabox.php:587
+msgid "Upload Icon Image Here"
+msgstr ""
+
+#: inc/widgets/single-banner.php:103 inc/widgets/video-popup.php:119
+#: inc/widgets/author-info.php:169
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/company-info-widget.php:120
+msgid "Upload Image:"
+msgstr ""
+
+#: inc/metabox/metabox.php:45 inc/metabox/metabox.php:50
+msgid "Upload Video"
+msgstr ""
+
+#: inc/metabox-expand.php:139
+msgid "UPPERCASE"
+msgstr ""
+
+#: inc/metabox/metabox.php:46
+msgid "Use this option when the video does not come from URL"
+msgstr ""
+
+#: inc/widgets/video-popup.php:127
+msgid "Video Link:"
+msgstr ""
+
+#: inc/metabox/metabox.php:40
+msgid "Video URL"
+msgstr ""
+
+#: inc/widgets/widget-register.php:115
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/metabox/metabox.php:164 inc/metabox/metabox.php:176
+#: inc/metabox/metabox.php:250 inc/metabox/metabox.php:272
+#: inc/metabox/metabox.php:282 inc/metabox/metabox.php:312
+#: inc/metabox/metabox.php:346 inc/metabox/metabox.php:356
+#: inc/metabox/metabox.php:393 inc/metabox/metabox.php:449
+#: inc/metabox/metabox.php:503 inc/metabox/metabox.php:526
+#: inc/metabox/metabox.php:537
+msgid "Yes"
+msgstr ""
+
+#: inc/comment-form.php:33 inc/comment-form.php:96
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Description of the theme
+msgid "Your Description Hare"
+msgstr ""
+
+#: comments.php:78
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:75
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:81
+msgid "Your Website"
+msgstr ""
+
+#: inc/widgets/social-subcribe-follow.php:147 inc/widgets/author-info.php:204
+msgid "Youtube Link:"
+msgstr ""
